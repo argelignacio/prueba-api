@@ -1,0 +1,173 @@
+{
+  "peliculas": [
+    {
+      "Identificador": 135480,
+      "Titulo": "Jummanji",
+      "Grado de compatibilidad": 0,
+      "Anio": 1995,
+      "Clasificacion": "PG",
+      "Duracion": 1.44,
+      "Descripcion": "Un joven se sienta como niño a jugar con su amiga y, al tirar los dados, se transporta al mundo de Jumanji...",
+      "Protagonistas": [
+        {
+          "nombre": "Robin",
+          "apellido": "Williams"
+        },
+        {
+          "nombre": "Jonathan",
+          "apellido": "Hyde"
+        },
+        {
+          "nombre": "Kirsten",
+          "apellido": "Dunst"
+        }
+      ],
+      "Generos": [
+        "Películas basadas en libros",
+        "Películas infantiles y familiares"
+      ],
+      "Este titulo es": [" "]
+    },
+    {
+      "Identificador": 135469,
+      "Titulo": "La noche del demonio",
+      "Grado de compatibilidad": 70,
+      "Anio": 2013,
+      "Clasificacion": "PG-13",
+      "Duracion": 1.45,
+      "Descripcion": "Mientras la familia Lambert sobrepone a la más reciente batalla...",
+      "Protagonistas": [
+        {
+          "nombre": "Patrick",
+          "apellido": "Wilson"
+        },
+        {
+          "nombre": "Rose",
+          "apellido": "Byrne"
+        },
+        {
+          "nombre": "Ty",
+          "apellido": "Simpkins"
+        }
+      ],
+      "Generos": ["Películas de terror", "Películas de terror sobrenatural"],
+      "Este titulo es": ["Escalofriante", "Inquietante", "De miedo"]
+    },
+    {
+      "Identificador": 135473,
+      "Titulo": "Maléfica",
+      "Grado de compatibilidad": 85,
+      "Anio": 2014,
+      "Clasificacion": "PG",
+      "Duracion": 1.37,
+      "Descripcion": "Este drama pone la clásica historia de la bella durmiente",
+      "Protagonistas": [
+        {
+          "nombre": "Angelina",
+          "apellido": "Jolie"
+        },
+        {
+          "nombre": "Elle",
+          "apellido": "Fanning"
+        },
+        {
+          "nombre": "Sharito",
+          "apellido": "Copley"
+        }
+      ],
+      "Generos": [
+        "Películas infantiles y familiares",
+        "Películas de Disney",
+        "Epopeyas"
+      ],
+      "Este titulo es": [" "]
+    },
+    {
+      "Identificador": 135424,
+      "Titulo": "Hotel Transylvania 2",
+      "Grado de compatibilidad": 94,
+      "Anio": 2015,
+      "Clasificacion": "PG",
+      "Duracion": 1.29,
+      "Descripcion": "Mavis y Jonathan se casan, y tienen un bebé. Drácula busca probar que su nieto es un ...",
+      "Protagonistas": [
+        {
+          "nombre": "Adam",
+          "apellido": "Sandler"
+        },
+        {
+          "nombre": "Andy",
+          "apellido": "Samberg"
+        },
+        {
+          "nombre": "Selena",
+          "apellido": "Gomez"
+        }
+      ],
+      "Generos": [
+        "Comedias familiares",
+        "Películas infantiles y familiares",
+        "Comedias"
+      ],
+      "Este titulo es": ["Optimista", "Disparatado"]
+    },
+    {
+      "Identificador": 135420,
+      "Titulo": "Bay Watch: Guardianes de la bahía",
+      "Grado de compatibilidad": 91,
+      "Anio": 2017,
+      "Clasificacion": "R",
+      "Duracion": 1.56,
+      "Descripcion": "Para salvar su playa, el salvavidas Mith Buchannon y un exdeportista investigan...",
+      "Protagonistas": [
+        {
+          "nombre": "Dwayne",
+          "apellido": "Johnson"
+        },
+        {
+          "nombre": "Zac",
+          "apellido": "Efron"
+        },
+        {
+          "nombre": "Priyanka",
+          "apellido": "Chopra"
+        }
+      ],
+      "Generos": [
+        "Acción y aventuras",
+        "Comedias de acción",
+        "Acción y aventuras sobre crímenes"
+      ],
+      "Este titulo es": ["Absurdo", "Picante", "Emocionante"]
+    },
+    {
+      "Identificador": 310520,
+      "Titulo": "Harry Potter y las reliquias de la muerte: Parte 1",
+      "Grado de compatibilidad": 0,
+      "Anio": 2010,
+      "Clasificacion": "PG-13",
+      "Duracion": 2.23,
+      "Descripcion": "En la primera parte de la saga de Harry Potter, él deja Hogwarts para destruir los Horrocruxes restantes.",
+      "Protagonistas": [
+        {
+          "nombre": "Daniel",
+          "apellido": "radcliffe"
+        },
+        {
+          "nombre": "Rupert",
+          "apellido": "Grint"
+        },
+        {
+          "nombre": "Emma",
+          "apellido": "Watson"
+        }
+      ],
+      "Generos": [
+        "Peliculas basadas en libros",
+        "Accion y Aventuras",
+        "Aventuras"
+      ],
+      "Este titulo es": ["Imaginativo", "Intrigante"]
+    }
+  ]
+}
