@@ -1,0 +1,19 @@
+version: "3"
+services:
+  postgres:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: db
+    networks:
+      - csv
+
+networks:
+  csv:
+    driver: bridge
+    
+volumes:
+  - ./tables.sql:/docker-entrypoint-initdb.d/1-tables.sql
